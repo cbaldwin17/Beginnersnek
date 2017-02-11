@@ -1,0 +1,5 @@
+print("welcome to the test code")
+def yellow=4
+def red=2
+print(yellow+red)
+print("should be 6")
